@@ -1,0 +1,28 @@
+{
+    "video": [
+        {
+            "id": 1,
+            "caption":"8k watermelon",
+            "url":"https://github.com/dilshazhussain832/Instagram-Reels-Raw-Files/blob/main/Cutting%20an%20ultra%20realistic%208k%20watermelon%20%F0%9F%8D%89%20%23viral%20%23veo3%20%23ai%20%23glass.mp4",
+            "likes":100,
+            "comments":20,
+            "shares":5
+        },
+        {
+            "id": 2,
+            "caption": "Hands free life",
+            "url":"https://github.com/dilshazhussain832/Instagram-Reels-Raw-Files/blob/main/Literally%20hands%20free%20life%20%F0%9F%92%80%20%20%23ai%20%23veo3%20%23viralshorts%20%23google%20%23aivideo%20%23aivideogenerator%20%23bollywood.mp4",
+            "likes":150,
+            "comments":30,
+            "shares":10
+        },
+        {
+            "id": 3,
+            "caption":"Baapu rizz before gta 6",
+            "url":"https://github.com/dilshazhussain832/Instagram-Reels-Raw-Files/blob/main/we%20got%20baapu%20rizz%20before%20gta%206%20%F0%9F%94%A5%20%23ai%20%23veo3%20%23viralshorts%20%23google%20%23aivideo%20%23aivideogenerator.mp4",
+            "likes":200,
+            "comments":40,
+            "shares":15
+        }
+    ]
+}
